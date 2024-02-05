@@ -5,7 +5,7 @@
 
 <p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=kararmirza19" alt="kararmirza19" /></a> </p>
 
-- 🌱 I’m currently learning **Node JS React JS and Server side scripting**
+- 🌱 I’m currently a ** Computer science student with expertise in more then 3 to 4 languages as mentioned down  **
 
 - 📫 How to reach me **kararmirza@gmail.com**
 
