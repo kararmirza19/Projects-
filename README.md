@@ -1,5 +1,5 @@
 <h1 align="center">Hi 👋, I'm Karar Mirza</h1>
-<h3 align="center">A passionate frontend and developer with diverse experience and frameworks like react and node js. </h3>
+<h3 align="center">A passionate Web developer with diverse experience and frameworks like react and node js. </h3>
 
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=kararmirza19&label=Profile%20views&color=0e75b6&style=flat" alt="kararmirza19" /> </p>
 
